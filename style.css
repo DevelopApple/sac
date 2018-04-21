@@ -770,7 +770,7 @@ box-shadow: 5px 30px 50px rgba(0, 0, 0, 0.2);
 }
 
 .about-apps-slider {
-padding-right: 60px;
+padding-center: 60px;
 }
 
 .app-single-slide {
@@ -807,7 +807,7 @@ background-size: contain;
 
 .about-apps-slider .owl-dots {
 margin-top: 50px;
-text-align: right;
+text-align: center;
 }
 
 .about-apps-slider .owl-dot {
