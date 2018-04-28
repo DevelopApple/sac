@@ -294,22 +294,7 @@ margin: 0;
 padding: 0;
 }
 
-#scrollUp {
-bottom: 30px;
-font-size: 24px;
-right: 30px;
-width: 40px;
-background: #fb397d;
-background: -webkit-linear-gradient(to right, #ccfa87, #fb397d);
-background: -webkit-linear-gradient(left, #ccfa87, #fb397d);
-background: linear-gradient(to right, #ccfa87, #fb397d);
-color: #fff;
-text-align: center;
-height: 40px;
-line-height: 38px;
-border-radius: 10px;
-box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.15);
-}
+
 
 a,
 a:hover,
